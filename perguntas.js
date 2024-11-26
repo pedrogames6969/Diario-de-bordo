@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Fato Curioso', 
-    'Uma curiosidade sobre cidade/ponto turístico/país cisitado!', 
+    'Uma curiosidade sobre cidade/ponto turístico/país visitado!', 
     'Informar através de um breve texto uma curiosidade.'
 )
 
