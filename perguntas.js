@@ -31,5 +31,5 @@ criaCartao(
 criaCartao(
     'Ponto de Vista', 
     'O que eu achei da viagem para a Jamaica?', 
-    'A viagem foi satisfatoria clima quente comida boa, pessoas alegres e o melhor a musica.'
+    'A viagem foi satisfatoria clima quente, comida boa, pessoas alegres e o melhor a musica, queria ter gastado menos.'
 )
