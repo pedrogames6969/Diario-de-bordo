@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
 
 :root {
-    --text-color: #ffffff;
+    --text-color: #D7DF01;
     --card-front-color: #028A0F;
-    --card-back-color: #bf94f1;
+    --card-back-color: #00ff00;
 }
 
 body{
