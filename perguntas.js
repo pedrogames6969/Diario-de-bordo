@@ -1,31 +1,31 @@
 criaCartao(
     'Diário de Bordo', 
-    'Jamaica', 
-    'Informar o destino da viagem.', 
+    'Destino', 
+    'Jamaica.', 
 )
 
 criaCartao(
     'Custo da Viagem', 
-    'Por pessoa incluindo viagem de ida e volta, agencia de turismo e hotel foram R$30637 covertidos em dolar jamaicano são J$829662,23?', 
-    'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
+    'Custo', 
+    'Por pessoa incluindo viagem de ida e volta, agencia de turismo e hotel foram R$30637 covertidos em dolar jamaicano são J$829662,23.'
 )
 
 criaCartao(
     'Fato Curioso', 
-    'Para os leigos a Jamaica é o berço do reggae, com artistas iconicos como Bob marley e Peter Tosh.', 
-    'Informar através de um breve texto uma curiosidade.'
+    'Curiosidade.', 
+    'Para os leigos a Jamaica é o berço do reggae, com artistas iconicos como Bob marley e Peter Tosh.'
 )
 
 criaCartao(
     'Passeios', 
-    'Montego Bay, GreenWood Great House e Main Street Rose Hall, MoBay como é chamado apresenta muitas prais e natureza, Rose hall é um shopping e o greenwood é a casa do "senhor do engenho".', 
-    'Informar os locais, breve resumo do que são.'
+    'Montego Bay, GreenWood Great House e Main Street Rose Hall, .', 
+    'MoBay como é chamado apresenta muitas prais e natureza, Rose hall é um shopping e o greenwood era a casa de produtores de cana de açucar com cerca de 2000 escravos.'
 )
 
 criaCartao(
     'Prato Típico', 
-    'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
+    'Conhece o "Patties"?', 
+    'o Patties é uma especie de pastel como conhemos aqui no Brasil, porém ele é assado em vez de frito, tabem é acompanhado de muitos temperos na carne, o pattie é um prato simples mas muito saboroso e representa muito bem a Jamaica, o seu ingredieten principal é a carne moida'
 )
 
 criaCartao(
