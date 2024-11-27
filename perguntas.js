@@ -1,12 +1,12 @@
 criaCartao(
     'Diário de Bordo', 
-    'Qual foi o destino?', 
+    'Jamaica', 
     'Informar o destino da viagem.', 
 )
 
 criaCartao(
     'Custo da Viagem', 
-    'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
+    'Por pessoa incluindo viagem de ida e volta, agencia de turismo e hotel foram R$30637 covertidos em dolar jamaicano são J$829662,23?', 
     'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
 )
 
