@@ -1,7 +1,7 @@
 criaCartao(
     'Diário de Bordo', 
     'Destino', 
-    'Jamaica.', 
+    'Jamaica, Montego Bay.', 
 )
 
 criaCartao(
