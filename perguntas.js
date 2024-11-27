@@ -12,13 +12,13 @@ criaCartao(
 
 criaCartao(
     'Fato Curioso', 
-    'Uma curiosidade sobre cidade/ponto turístico/país visitado!', 
+    'Para os leigos a Jamaica é o berço do reggae, com artistas iconicos como Bob marley e Peter Tosh.', 
     'Informar através de um breve texto uma curiosidade.'
 )
 
 criaCartao(
     'Passeios', 
-    'Onde passear?', 
+    'Montego Bay, GreenWood Great House e Main Street Rose Hall, MoBay como é chamado apresenta muitas prais e natureza, Rose hall é um shopping e o greenwood é a casa do "senhor do engenho".', 
     'Informar os locais, breve resumo do que são.'
 )
 
