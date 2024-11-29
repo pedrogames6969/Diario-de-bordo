@@ -29,6 +29,6 @@ function criaCartao(categoria, pergunta, resposta, imagem) {
 criaCartao(
     'Álbum de fotos', 
     'Minhas memórias!', 
-    'Aqui está a montagem das suas fotos.',
+    'Allan na GreenWood Great House.',
     'https://1drv.ms/i/c/95442fd2d9b0f0cd/EUuJd_0jt-VHnJkXlyJiBswBaKpDeMyPBN22mOWUx2wf2g?e=TF5SVD'
 );
