@@ -30,5 +30,5 @@ criaCartao(
     'Álbum de fotos', 
     'Minhas memórias!', 
     'Aqui está a montagem das suas fotos.',
-    'https://drive.google.com/file/d/1B4Co3kGQXkcCJlCLHINynkuh0SnDOlBr/view'
+    'https://1drv.ms/i/c/95442fd2d9b0f0cd/EUuJd_0jt-VHnJkXlyJiBswBaKpDeMyPBN22mOWUx2wf2g?e=TF5SVD'
 );
